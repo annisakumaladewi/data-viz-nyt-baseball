@@ -71,7 +71,8 @@ Rather than focusing on analysis alone, this project emphasizes **editorial-styl
 
 - Baseball team strikeout data (sample dataset provided in DataCamp DataLab)
 - Original inspiration:
-  - (*New York Times*, “Strikeouts Are Still Soaring” (2012))[https://archive.nytimes.com/www.nytimes.com/interactive/2013/03/29/sports/baseball/Strikeouts-Are-Still-Soaring.html?ref=baseball]
+  - [*New York Times*, “Strikeouts Are Still Soaring” (2012)](https://archive.nytimes.com/www.nytimes.com/interactive/2013/03/29/sports/baseball/Strikeouts-Are-Still-Soaring.html?)
+
 
 ---
 
